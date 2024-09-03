@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.OpenApi.Models;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.IdentityModel.Tokens;
+global using AutoMapper;
+global using SoccerAPI.Services;
+global using SoccerAPI.Helpers;
+global using SoccerAPI.Models;
+global using SoccerAPI.DTOs;
